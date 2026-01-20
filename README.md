@@ -1,6 +1,6 @@
 ## Matthew Benson
 
-<!--
+
 Data Science Student | CORE Scholars @ University of Virginia
 
 
@@ -11,4 +11,4 @@ Data Science Student | CORE Scholars @ University of Virginia
 -  I’m looking for help with ...
 -  Ask me about ...
 -  How to reach me: ...
--->
+
